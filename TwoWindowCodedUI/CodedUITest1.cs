@@ -10,7 +10,7 @@ using Microsoft.VisualStudio.TestTools.UITest.Extension;
 using Keyboard = Microsoft.VisualStudio.TestTools.UITesting.Keyboard;
 
 
-namespace TwoWindowCodedUI
+namspace TwoWindowCodedUI
 {
     /// <summary>
     /// Summary description for CodedUITest1
