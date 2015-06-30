@@ -1,0 +1,28 @@
+﻿<Window x:Class="WpfApplication.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="100"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" Margin="20">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Label Name="labelName" Content="Name"/>
+            <TextBox Name="tbName" Grid.Column="1"/>
+            <Label Name="labelId" Content="Employee Id" Grid.Column="0" Grid.Row="1"/>
+            <TextBox Name="tbId" Grid.Column="1" Grid.Row="1"/>
+        </Grid>
+        <Button Grid.Row="1" Name="btSubmit" Content="Submit" Padding="5" Click="btSubmit_Click"/>
+        <TextBlock Grid.Row="2" Name="tbResult" Margin="20"/>
+    </Grid>
+</Window>

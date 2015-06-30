@@ -1,0 +1,5 @@
+c:\users\pbhuwa\documents\visual studio 2013\Projects\CodedUI\CodedUIDemo\bin\Debug\CodedUIDemo.dll
+c:\users\pbhuwa\documents\visual studio 2013\Projects\CodedUI\CodedUIDemo\bin\Debug\CodedUIDemo.pdb
+c:\users\pbhuwa\documents\visual studio 2013\Projects\CodedUI\CodedUIDemo\obj\Debug\CodedUIDemo.csprojResolveAssemblyReference.cache
+c:\users\pbhuwa\documents\visual studio 2013\Projects\CodedUI\CodedUIDemo\obj\Debug\CodedUIDemo.dll
+c:\users\pbhuwa\documents\visual studio 2013\Projects\CodedUI\CodedUIDemo\obj\Debug\CodedUIDemo.pdb

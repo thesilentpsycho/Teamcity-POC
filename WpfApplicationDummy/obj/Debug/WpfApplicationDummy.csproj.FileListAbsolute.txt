@@ -1,0 +1,13 @@
+c:\users\pbhuwa\documents\visual studio 2013\Projects\CodedUI\WpfApplicationDummy\bin\Debug\WpfApplicationDummy.exe.config
+c:\users\pbhuwa\documents\visual studio 2013\Projects\CodedUI\WpfApplicationDummy\bin\Debug\WpfApplicationDummy.exe
+c:\users\pbhuwa\documents\visual studio 2013\Projects\CodedUI\WpfApplicationDummy\bin\Debug\WpfApplicationDummy.pdb
+c:\users\pbhuwa\documents\visual studio 2013\Projects\CodedUI\WpfApplicationDummy\obj\Debug\MainWindow.baml
+c:\users\pbhuwa\documents\visual studio 2013\Projects\CodedUI\WpfApplicationDummy\obj\Debug\MainWindow.g.cs
+c:\users\pbhuwa\documents\visual studio 2013\Projects\CodedUI\WpfApplicationDummy\obj\Debug\App.g.cs
+c:\users\pbhuwa\documents\visual studio 2013\Projects\CodedUI\WpfApplicationDummy\obj\Debug\WpfApplicationDummy_MarkupCompile.cache
+c:\users\pbhuwa\documents\visual studio 2013\Projects\CodedUI\WpfApplicationDummy\obj\Debug\WpfApplicationDummy.g.resources
+c:\users\pbhuwa\documents\visual studio 2013\Projects\CodedUI\WpfApplicationDummy\obj\Debug\WpfApplicationDummy.Properties.Resources.resources
+c:\users\pbhuwa\documents\visual studio 2013\Projects\CodedUI\WpfApplicationDummy\obj\Debug\WpfApplicationDummy.csproj.GenerateResource.Cache
+c:\users\pbhuwa\documents\visual studio 2013\Projects\CodedUI\WpfApplicationDummy\obj\Debug\WpfApplicationDummy.exe
+c:\users\pbhuwa\documents\visual studio 2013\Projects\CodedUI\WpfApplicationDummy\obj\Debug\WpfApplicationDummy.pdb
+c:\users\pbhuwa\documents\visual studio 2013\Projects\CodedUI\WpfApplicationDummy\obj\Debug\WpfApplicationDummy.csprojResolveAssemblyReference.cache

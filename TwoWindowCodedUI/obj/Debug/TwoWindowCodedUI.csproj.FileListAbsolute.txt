@@ -1,0 +1,6 @@
+c:\users\pbhuwa\documents\visual studio 2013\Projects\CodedUI\TwoWindowCodedUI\bin\Debug\TwoWindowCodedUI.dll
+c:\users\pbhuwa\documents\visual studio 2013\Projects\CodedUI\TwoWindowCodedUI\bin\Debug\TwoWindowCodedUI.pdb
+c:\users\pbhuwa\documents\visual studio 2013\Projects\CodedUI\TwoWindowCodedUI\obj\Debug\TwoWindowCodedUI.csprojResolveAssemblyReference.cache
+c:\users\pbhuwa\documents\visual studio 2013\Projects\CodedUI\TwoWindowCodedUI\obj\Debug\TwoWindowCodedUI.dll
+c:\users\pbhuwa\documents\visual studio 2013\Projects\CodedUI\TwoWindowCodedUI\obj\Debug\TwoWindowCodedUI.pdb
+c:\users\pbhuwa\documents\visual studio 2013\Projects\CodedUI\TwoWindowCodedUI\bin\Debug\data.csv
